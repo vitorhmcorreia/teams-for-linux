@@ -14,6 +14,20 @@
   <url type="bugtracker">https://github.com/IsmaelMartinez/teams-for-linux/issues</url>
   <launchable type="desktop-id">com.github.IsmaelMartinez.teams_for_linux.desktop</launchable>
   <releases>
+    <release version="2.33.0" date="2026-11-20">
+      <description>
+        <ul>
+          <li>config: add platform.disableUrlPreviews to keep pasted links as plain URLs (#3234)</li>
+          <li>ipc: contain errors thrown by IPC event listeners (#3241)</li>
+          <li>links: limit links opened outside the app to web, mail, phone and Teams schemes (#3240)</li>
+          <li>adr: record why the flat-name removal moved to 2.36.0 (#3222)</li>
+          <li>fix dead Electron accelerator links (#3228)</li>
+          <li>flatpak: document the TimeoutStopSec workaround for the slow shutdown (#3223)</li>
+          <li>troubleshooting: describe the insert-key prompt on the stuck passkey screen (#3227)</li>
+          <li>deps: bump katex and mermaid in /docs-site (#3224)</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.32.1" date="2026-11-15">
       <description>
         <ul>

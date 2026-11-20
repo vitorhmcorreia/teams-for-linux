@@ -26,6 +26,10 @@
 
 * **deps:** bump katex and mermaid in /docs-site ([#3224](https://github.com/IsmaelMartinez/teams-for-linux/issues/3224)) ([da7b77c](https://github.com/IsmaelMartinez/teams-for-linux/commit/da7b77cf8db4de802b1a2884815c19979bf2f7b5))
 
+### Thanks
+
+Big thanks to @app/dependabot, @farisbasha, @KimP0ssible-no, @pedr0vict0r for contributing to this release.
+
 ## [2.32.1](https://github.com/IsmaelMartinez/teams-for-linux/compare/v2.32.0...v2.32.1) (2026-11-15)
 
 
